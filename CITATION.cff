@@ -8,11 +8,11 @@ abstract: Project C04 studies the molecular and functional mechanisms underlying
   specific factors contributing to resilience against apraxia.
 authors:
 - {family-names: Drzezga, given-names: Alexander}
-- {family-names: Weiss-Blankenhorn, given-names: Peter}
+- {family-names: Weiss-blankenhorn, given-names: Peter}
 - {family-names: Bischof, given-names: Gerard N.}
 - {family-names: Latarnik, given-names: Sylvia}
 - {family-names: Jäger, given-names: Elena}
 cff-version: 1.2.0
 message: Generated with data scraped from crc1451.uni-koeln.de
-title: 'Apraxia in Alzheimer’s disease: Plastic reorganization of praxis networks
+title: 'C04: Apraxia in Alzheimer’s disease: Plastic reorganization of praxis networks
   in response to chronically progressive dysfunction'
