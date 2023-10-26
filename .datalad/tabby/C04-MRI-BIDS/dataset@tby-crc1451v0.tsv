@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-																			
+# bold indicates required																				
+name	C04-MRI-BIDS																			
+title	C04 MRI dataset																			
+description	Apraxia in Alzheimer’s disease: Plastic reorganization of praxis networks in response to chronically progressive dysfunction																			
+crc-project	C04																			
+version	latest																			
+sample[organism]	NCBITaxon:9606																			
+sample[organism-part]	UBERON:0000955																		
+keywords																			
+license																				
+doi																				
+homepage	https://www.crc1451.uni-koeln.de/index.php/c06/	https://data.sfb1451.de/	https://psychoinformatics-de.github.io/sfb1451-projects-catalog/#/dataset/bede4323-23cd-40b4-b243-1e8257989da0/a4513c8bcd40471e369701565f421f7f41245ea5																	
+last-updated	2023-10-02																			
